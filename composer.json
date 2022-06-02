@@ -1,0 +1,13 @@
+{
+    "name": "sofiane/aquarium",
+    "authors": [
+        {
+            "name": "undefinedDefined",
+            "email": "s.msatfa@laposte.net"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {"App\\": "src/"}
+    }
+}
